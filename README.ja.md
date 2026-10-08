@@ -5,7 +5,9 @@
 <h1 align="center">Hi, I'm Kate 👋</h1>
 
 <p align="center">
-  IT企業でコンサルタントをしています。GitHubでは勉強と趣味で、会話AIやXRのプロジェクトをつくっています。
+  IT企業でコンサルタントをしています。GitHubでは勉強と趣味で、会話AIやXRのプロジェクトをつくっています。<br />
+  開発とビジネスの両方を知る立場から、その2つをつなぐ架け橋になりたいと考えています。<br />
+  このGitHubでは、開発スキルを磨いていく過程を公開していきます。
 </p>
 
 <p align="center"><a href="./README.md">English</a> | 日本語</p>

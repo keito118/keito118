@@ -5,7 +5,9 @@
 <h1 align="center">Hi, I'm Kate 👋</h1>
 
 <p align="center">
-  IT consultant at a Japanese IT company. On GitHub I build conversational AI and XR projects for learning and fun.
+  IT consultant at a Japanese IT company. On GitHub I build conversational AI and XR projects for learning and fun.<br />
+  Knowing both development and business, I aim to be a bridge between the two.<br />
+  On this GitHub, I keep building up my development skills.
 </p>
 
 <p align="center">English | <a href="./README.ja.md">日本語</a></p>
