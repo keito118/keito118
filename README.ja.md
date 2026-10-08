@@ -2,7 +2,7 @@
   <img src="./assets/icon.jpg" width="200" alt="keito118 icon" />
 </p>
 
-<h1 align="center">Hi, I'm keito118 👋</h1>
+<h1 align="center">Hi, I'm Kate 👋</h1>
 
 <p align="center">
   IT企業でコンサルタントをしています。GitHubでは勉強と趣味で、会話AIやXRのプロジェクトをつくっています。
