@@ -31,6 +31,7 @@ A small GPT-style Japanese conversational model (40M parameters) built from scra
 - **Context extension** from 256 to 1024 tokens by reusing learned position embeddings instead of retraining
 - **Tool use** (calculator, holidays, weather, Wikipedia lookup) with results passed to the model as reference text
 - **Measured progress**: a frozen held-out conversation set evaluated after every round, with failures and diagnoses kept in a public training log
+- 📝 Write-up on dev.to: [Why my from-scratch Japanese LLM says "That sounds tough" to good news](https://dev.to/keito118/why-my-from-scratch-japanese-llm-says-that-sounds-tough-to-good-news-3k15)
 - Tech: Python, PyTorch, NumPy, Hugging Face Datasets
 
 ### 🥽 AR Communicator for Deaf and Hearing (university research, team project)

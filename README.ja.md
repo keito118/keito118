@@ -31,6 +31,7 @@
 - 学習済みの位置埋め込みを流用し、再学習なしで**コンテキスト長を256から1024に拡張**
 - **ツール利用**(計算、祝日、天気、Wikipedia検索)の結果を参考情報としてモデルに渡し、回答はモデル自身が生成
 - **改善を数値で追跡**: 固定した評価用会話セットで毎ラウンド評価し、失敗と原因分析も学習ログとして公開
+- 📝 dev.toの記事(英語): [Why my from-scratch Japanese LLM says "That sounds tough" to good news](https://dev.to/keito118/why-my-from-scratch-japanese-llm-says-that-sounds-tough-to-good-news-3k15)
 - Tech: Python, PyTorch, NumPy, Hugging Face Datasets
 
 ### 🥽 AR Communicator for Deaf and Hearing(大学の研究・チーム開発)
