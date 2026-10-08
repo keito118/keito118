@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm keito118 🐈</h1>
-
 <p align="center">
-  <img src="https://http.cat/200" width="360" alt="HTTP 200 OK cat" />
+  <img src="./assets/icon.jpg" width="200" alt="keito118 icon" />
 </p>
+
+<h1 align="center">Hi, I'm keito118 👋</h1>
 
 <p align="center">
   Systems engineer at a Japanese IT company (SIer). On GitHub I build conversational AI and XR projects for learning and fun.
@@ -12,20 +12,14 @@
 
 ---
 
-```
-   /\_/\
-  ( o.o )  < nya~ welcome!
-   > ^ <
-```
-
-## 🐱 About me
+## 🙋 About me
 
 - 💼 Working as a systems engineer at a Japanese SIer; GitHub is where I study and build personal projects
 - 💬 Building **Lilas**, a Japanese language model, from scratch in PyTorch: tokenizer, Transformer, training and evaluation
 - 🥽 In university research, contributed to **AR Communicator**, a team project on Meta Quest 3 that uses avatars to bridge conversations between Deaf and hearing people
 - 🌱 Currently learning: training and evaluating dialogue models / LLMs, data analysis
 
-## 🐾 Projects
+## 🚀 Projects
 
 ### 💬 Lilas: a Japanese language model built from scratch (personal project)
 [keito118/lilas-llm-from-scratch](https://github.com/keito118/lilas-llm-from-scratch) · MIT License
@@ -48,18 +42,14 @@ An AR system for Meta Quest 3 that overlays an avatar on your conversation partn
 - Tuned sign-language motion parameters, built a scene with three avatars, and tested on a real Quest 3 headset
 - Tech: Unity (C#), UniVRM, Firebase Realtime Database, Meta Quest 3
 
-## 🧶 Tech Stack
+## 🛠 Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,unity,cs,git,github,firebase&perline=7" />
 </p>
 
-## 😺 GitHub Stats
+## 📊 GitHub Stats
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=keito118&show_icons=true&hide_border=true" />
 </p>
-
----
-
-<p align="center">🐾 Thanks for dropping by! Have a purr-fect day 🐈</p>

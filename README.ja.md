@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm keito118 🐈</h1>
-
 <p align="center">
-  <img src="https://http.cat/200" width="360" alt="HTTP 200 OK cat" />
+  <img src="./assets/icon.jpg" width="200" alt="keito118 icon" />
 </p>
+
+<h1 align="center">Hi, I'm keito118 👋</h1>
 
 <p align="center">
   IT企業でSIerとして働くシステムエンジニアです。GitHubでは勉強と趣味で、会話AIやXRのプロジェクトをつくっています。
@@ -12,20 +12,14 @@
 
 ---
 
-```
-   /\_/\
-  ( o.o )  < にゃ〜 ようこそ！
-   > ^ <
-```
-
-## 🐱 About me
+## 🙋 About me
 
 - 💼 IT企業でSIerとして勤務。GitHubは勉強と個人開発の場として使っています
 - 💬 日本語の言語モデル「**Lilas**」をPyTorchでゼロから個人開発。トークナイザ、Transformer、学習、評価まですべて自作
 - 🥽 大学の研究で、ろう者と聴者の会話をアバターでつなぐMeta Quest 3向けシステム **AR Communicator** のチーム開発に参加しました
 - 🌱 いま学んでいること: 対話モデル / LLMの学習と評価、データ分析
 
-## 🐾 Projects
+## 🚀 Projects
 
 ### 💬 Lilas: ゼロから作った日本語言語モデル(個人開発)
 [keito118/lilas-llm-from-scratch](https://github.com/keito118/lilas-llm-from-scratch) · MIT License
@@ -48,18 +42,14 @@
 - 手話モーションのパラメータ調整、アバター3体を配置したシーンの構築、Quest 3実機での動作確認
 - Tech: Unity (C#), UniVRM, Firebase Realtime Database, Meta Quest 3
 
-## 🧶 Tech Stack
+## 🛠 Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,unity,cs,git,github,firebase&perline=7" />
 </p>
 
-## 😺 GitHub Stats
+## 📊 GitHub Stats
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=keito118&show_icons=true&hide_border=true" />
 </p>
-
----
-
-<p align="center">🐾 見に来てくれてありがとうございます！よい一日を 🐈</p>
