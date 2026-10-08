@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm keito118 👋</h1>
 
 <p align="center">
-  Systems engineer at a Japanese IT company (SIer). On GitHub I build conversational AI and XR projects for learning and fun.
+  IT consultant at a Japanese IT company. On GitHub I build conversational AI and XR projects for learning and fun.
 </p>
 
 <p align="center">English | <a href="./README.ja.md">日本語</a></p>
@@ -14,7 +14,7 @@
 
 ## 🙋 About me
 
-- 💼 Working as a systems engineer at a Japanese SIer; GitHub is where I study and build personal projects
+- 💼 Working as an IT consultant at a Japanese IT company; GitHub is where I study and build personal projects
 - 💬 Building **Lilas**, a Japanese language model, from scratch in PyTorch: tokenizer, Transformer, training and evaluation
 - 🥽 In university research, contributed to **AR Communicator**, a team project on Meta Quest 3 that uses avatars to bridge conversations between Deaf and hearing people
 - 🌱 Currently learning: training and evaluating dialogue models / LLMs, data analysis

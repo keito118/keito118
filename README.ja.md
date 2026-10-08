@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm keito118 👋</h1>
 
 <p align="center">
-  IT企業でSIerとして働くシステムエンジニアです。GitHubでは勉強と趣味で、会話AIやXRのプロジェクトをつくっています。
+  IT企業でコンサルタントをしています。GitHubでは勉強と趣味で、会話AIやXRのプロジェクトをつくっています。
 </p>
 
 <p align="center"><a href="./README.md">English</a> | 日本語</p>
@@ -14,7 +14,7 @@
 
 ## 🙋 About me
 
-- 💼 IT企業でSIerとして勤務。GitHubは勉強と個人開発の場として使っています
+- 💼 IT企業でコンサルタントとして勤務。GitHubは勉強と個人開発の場として使っています
 - 💬 日本語の言語モデル「**Lilas**」をPyTorchでゼロから個人開発。トークナイザ、Transformer、学習、評価まですべて自作
 - 🥽 大学の研究で、ろう者と聴者の会話をアバターでつなぐMeta Quest 3向けシステム **AR Communicator** のチーム開発に参加しました
 - 🌱 いま学んでいること: 対話モデル / LLMの学習と評価、データ分析
