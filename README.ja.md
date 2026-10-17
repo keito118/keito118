@@ -14,14 +14,43 @@
 
 ---
 
+## 🎧 あなたの1曲を、プレイリストに
+
+<p align="center">
+  <b>GitHubにいる誰もがDJになれるSpotifyプレイリストを運営しています。</b><br />
+  Issueに曲のリンクを貼るだけで、ボットがプルリクエストに変換。マージされた瞬間、その曲がSpotifyに追加されます。
+</p>
+
+<p align="center">
+  <a href="https://github.com/keito118/open-source-mixtape/issues/new?template=add-song.yml"><img src="https://img.shields.io/badge/Add%20a%20song-open%20an%20issue-black?style=for-the-badge&logo=github" alt="曲を追加する" /></a>
+  <a href="https://open.spotify.com/playlist/6RrEtS1qX6csamOV6ET74Q"><img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotifyで聴く" /></a>
+</p>
+
+<p align="center">1曲ごとに、コミットと、追加した人と、選んだ理由が残ります。🎶</p>
+
+---
+
 ## 🙋 About me
 
 - 💼 IT企業でコンサルタントとして勤務。GitHubは勉強と個人開発の場として使っています
 - 💬 日本語の言語モデル「**Lilas**」をPyTorchでゼロから個人開発。トークナイザ、Transformer、学習、評価まですべて自作
+- 🎧 GitHubのプルリクエストでSpotifyプレイリストを運用する「**Playlist as Code**」と、誰でも曲を追加できるプレイリスト「**Open Source Mixtape**」を個人開発
 - 🥽 大学の研究で、ろう者と聴者の会話をアバターでつなぐMeta Quest 3向けシステム **AR Communicator** のチーム開発に参加しました
 - 🌱 いま学んでいること: 対話モデル / LLMの学習と評価、データ分析
 
 ## 🚀 Projects
+
+### 🎧 Playlist as Code: Spotifyのプレイリストをコードのように運用(個人開発)
+[keito118/spotify-playlist-as-code](https://github.com/keito118/spotify-playlist-as-code) · v1.0.0 · GitHubテンプレート · MIT License
+
+SpotifyのプレイリストをGitHubリポジトリに変えるテンプレート。プレイリストは1行1曲のテキストファイルで、プルリクエストが曲の提案、レビューは試聴、マージすると本物のプレイリストが更新されます。
+
+- **マージ = 公開**: GitHub Actionsがプルリクエストごとに検証(不正なリンク、重複、Spotifyでの曲名照会)し、マージ時にファイルの順番どおりプレイリストを同期
+- **Gitを知らなくても参加できる**: Issueフォームに曲のリンクを貼ると、ボットが曲を調べてファイルを編集し、プルリクエストまで作成
+- **履歴がそのまま残る**: `git log` で、誰がいつ、なぜその曲を追加したかがわかる
+- **依存ゼロ**: Python標準ライブラリのみ、サーバー不要
+- 🎶 動くデモ: 世界中の誰でも曲を追加できるプレイリスト [**Open Source Mixtape**](https://github.com/keito118/open-source-mixtape)([Spotifyで聴く](https://open.spotify.com/playlist/6RrEtS1qX6csamOV6ET74Q))
+- Tech: Python, GitHub Actions, Spotify Web API
 
 ### 💬 Lilas: ゼロから作った日本語言語モデル(個人開発)
 [keito118/lilas-llm-from-scratch](https://github.com/keito118/lilas-llm-from-scratch) · MIT License
@@ -48,7 +77,7 @@
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,unity,cs,git,github,firebase&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,unity,cs,git,github,githubactions,firebase&perline=8" />
 </p>
 
 ## 📊 GitHub Stats
