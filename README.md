@@ -14,14 +14,43 @@
 
 ---
 
+## 🎧 Put your song on my playlist
+
+<p align="center">
+  <b>I run a Spotify playlist where anyone on GitHub can be the DJ.</b><br />
+  Paste a song link into an issue, a bot turns it into a pull request, and once it's merged the song is live on Spotify.
+</p>
+
+<p align="center">
+  <a href="https://github.com/keito118/open-source-mixtape/issues/new?template=add-song.yml"><img src="https://img.shields.io/badge/Add%20a%20song-open%20an%20issue-black?style=for-the-badge&logo=github" alt="Add a song" /></a>
+  <a href="https://open.spotify.com/playlist/6RrEtS1qX6csamOV6ET74Q"><img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" /></a>
+</p>
+
+<p align="center">Every song has a commit, an author, and a reason. 🎶</p>
+
+---
+
 ## 🙋 About me
 
 - 💼 Working as an IT consultant at a Japanese IT company; GitHub is where I study and build personal projects
 - 💬 Building **Lilas**, a Japanese language model, from scratch in PyTorch: tokenizer, Transformer, training and evaluation
+- 🎧 Built **Playlist as Code**, which runs Spotify playlists through GitHub pull requests, and **Open Source Mixtape**, a playlist anyone can add a song to
 - 🥽 In university research, contributed to **AR Communicator**, a team project on Meta Quest 3 that uses avatars to bridge conversations between Deaf and hearing people
 - 🌱 Currently learning: training and evaluating dialogue models / LLMs, data analysis
 
 ## 🚀 Projects
+
+### 🎧 Playlist as Code: Spotify playlists run like a code repository (personal project)
+[keito118/spotify-playlist-as-code](https://github.com/keito118/spotify-playlist-as-code) · v1.0.0 · GitHub template · MIT License
+
+A template that turns any Spotify playlist into a GitHub repository. Each playlist is a text file with one song per line: a pull request proposes songs, a review is a listen, and merging updates the real playlist.
+
+- **Merge = publish**: GitHub Actions validates every pull request (bad links, duplicates, track lookup on Spotify) and syncs the playlist on merge, in file order
+- **No Git needed to join in**: paste a song link into an issue form, and a bot looks it up, edits the file, and opens the pull request
+- **History for free**: `git log` shows who added each song, when, and why
+- **Zero dependencies**: Python standard library only, no servers to run
+- 🎶 Live demo: [**Open Source Mixtape**](https://github.com/keito118/open-source-mixtape), a playlist anyone in the world can add to ([listen on Spotify](https://open.spotify.com/playlist/6RrEtS1qX6csamOV6ET74Q))
+- Tech: Python, GitHub Actions, Spotify Web API
 
 ### 💬 Lilas: a Japanese language model built from scratch (personal project)
 [keito118/lilas-llm-from-scratch](https://github.com/keito118/lilas-llm-from-scratch) · MIT License
@@ -48,7 +77,7 @@ An AR system for Meta Quest 3 that overlays an avatar on your conversation partn
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,unity,cs,git,github,firebase&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,unity,cs,git,github,githubactions,firebase&perline=8" />
 </p>
 
 ## 📊 GitHub Stats
